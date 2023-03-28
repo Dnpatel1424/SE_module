@@ -1,0 +1,133 @@
+~ Tops - Training outsoursing placement service 
+
+~ IT - Information Technology 
+
+~ Three main pillar of iT.
+- Software 
+- Networking
+- Digital marketing / designing 
+
+
+~ Devlopment in  two parts. 
+
+- Application 
+- Website (frontend / backend )
+
+~ Network 
+1> Lan - Local area network
+2> Man - Metro polation area network 
+3> Wan - wide area netwoek 
+
+----------------------------------------------------------
+ -> Why learn programing language  ?
+
+- learning programming language beacuse to us devloped software       
+              ,Application, website,graphics designing. 
+
+- programming language is converter  between computer system and user. 
+------------------------------------------------------------
+
+> Program - set of instruction
+
+-- Programm is set of instruction wich perform specific function or task.  
+
+> programming language - set of programm  
+              software - set of program 
+
+ -- Programm is set of instruction wich perform specific function or task.  
+
+-----------------------------------------------------------
+
+Two type of programming language 
+
+- low level 
+- high level 
+
+-> low level 
+= machine level 
+= assembly level
+
+-> high level 
+= procedural 
+= object oeriented ( mostly used)
+
+programming language example . 
+
+- c
+- c++ 
+- java 
+- dart 
+- python
+- html , css 
+- javascript 
+- node js 
+- Database 
+----------------------------------------------------------------
+ > WWW
+    - World wide web.
+    - Collection of webpages , website and than stored in web
+         server.
+----------------------------------------------------------------
+
+> Internet Work
+   - Internet pass data from one platform to 
+                      anthore platform.
+
+---------------------------------------------------------------
+
+> Types of internet conection.
+
+  - Digital Subscriber line
+  - cable internet
+  - fiber optical 
+  - satalite internet
+  - wirless
+  - boradband over power lines.
+
+----------------------------------------------------------------- 
+~ protocol 
+
+- Set of Rules and regulation for communicating data.
+        - transaction control protocol.
+        - internet protocol
+        - post office protocol.
+    
+------------------------------------------------------------------
+> Client and server
+
+  Client <--> To us <--> Request.
+  Server <--> Network <--> Response.
+
+-------------------------------------------------------------------
+
+SDLC (Software Development Lifecycle)
+
+Following are the phases in SDLC.
+
+1) S/W Requirement 
+2) S/W Analysis
+3) S/W Designing
+4) S/W Development
+5) S/W Testing  (Quality Assurance )Tester
+6) S/W Deployment
+7) S/W Maintenance
+
+
+Algorithms.
+
+The process which needs to follow step-by-step
+is called algorithms.
+
+Scenario 1. To make a tea.
+
+step1 : Start
+step2 : Take inputs (take bowl,tea,sugar,etc.)
+step3 : Boil (Process)
+step4 : Output (Serve Tea)
+step5 : Stop
+
+Flowchart : It is a pictorial representation
+            of algorithms
+
+
+
